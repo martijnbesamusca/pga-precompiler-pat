@@ -1,0 +1,1 @@
+-x/s{; x.+s; y=new; y.+p; y.p=x; x.s=y; }{;y =x.s; }

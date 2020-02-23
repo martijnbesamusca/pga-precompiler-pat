@@ -1,0 +1,8 @@
+setZero;
+x=y;
+succ;
+x=y;
+succ;
+x1=y;
+x2=y;
+add
