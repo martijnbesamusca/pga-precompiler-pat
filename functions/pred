@@ -1,4 +1,2 @@
-L0;+x2==Z{;y = x1;}{;x = x1;
-  -x/s{; x.+s; y=new; y.+p; y.p=x; x.s=y; }{; y=x.s;}; x1=y; x=x2;
-        -x/p{; y=x;
-           }{; y = x.p ;}; x2=y; ##L0; }
+-x/p{; y=x;
+   }{; y = x.p ;}
